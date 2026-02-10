@@ -122,6 +122,3 @@ EV-Predictive-Maintenance-AI/
 git clone https://github.com/Mahez-snow/EV-Predictive-Maintenance-AI.git
 cd EV-Predictive-Maintenance-AI
 
-
-## 📁 Project Structure
-
